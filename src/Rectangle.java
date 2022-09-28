@@ -17,11 +17,12 @@ public class Rectangle {
         System.out.println("My area is " + area);
     }
     public void printPerimeter() {
+
         System.out.println("My perimeter is " + (2*length + 2*width));
         }
 
      public void square() {
-         if (length = width) {
+         if (len = wid) {
              System.out.println("That's a square, not a rectangle!");
          }
      }
